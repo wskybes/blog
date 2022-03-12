@@ -1,0 +1,2 @@
+# blog
+Learn, think, write.
